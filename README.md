@@ -1,4 +1,5 @@
-Assignment 1 – Pattern Printing Program in C++
+**Assignment 1 –**
+Pattern Printing Program in C++
 📖 About This Repository
 
 Hello! I am Akshita Surana, a Bachelor of Computer Applications (BCA) student. This repository contains my practical assignment program written in C++.
@@ -73,8 +74,9 @@ Digit extraction using modulus (%) and division (/) operators.
 Counting and summing digits based on conditions.
 Organizing programs using classes and member functions.
 Developing logical problem-solving skills in C++.
-**
-ASSIGNMENT 3**
+
+
+**ASSIGNMENT 3**
 Program Features
 🔹 Symmetrical Number Pattern
 Generates a diamond-like number pattern.
@@ -103,125 +105,125 @@ Applying formatting functions to improve output presentation.
 Strengthening logical thinking and problem-solving skills.
 
 **ASSIGNMEENT 3**
-Ass3 aka Q18 — Diamond number pattern
+ Diamond number pattern
 
 Prints a diamond-shaped numeric pattern where border digits increment/decrement and inner positions alternate between 0 and 9. Uses setw/setfill for precise spacing. Implemented inside a class.
 
 Topics: Nested loops, iomanip, OOP
 
 **ASSIGNMENT 4**
-Ass4 aka Q21 — Two numeric series printer
+ Two numeric series printer
 
 Prints two series: (1) sum of squares 1²+2²+...+N², and (2) triangular number series. Menu-driven with getch(), OOP-based class design.
 
 Topics: Series, loops, OOP
 
 **ASSIGNMENT 5**
-Ass5 aka Q22 — All substrings of a string
+ All substrings of a string
 
 Generates and displays all substrings of a given string — once using substr() and once manually by character concatenation.
 
 Topics: Strings, substr, manual iteration
 
 **ASSIGNMENT 6**
-Ass6 aka Q23 — Reverse words in a sentence
+ Reverse words in a sentence
 
 Reverses the order of words using three approaches: manual, string insert(), and stringstream.
 
 Topics: Strings, stringstream, word manipulation
 
 **ASSIGNMENT 7**
-Ass7 aka Q24 — Reverse each word in place
+ Reverse each word in place
 
 Reverses each word individually while preserving word order. Three implementations: std::reverse, stringstream, and manual.
 
 Topics: Strings, algorithm, word manipulation
 
 **ASSIGNMENT 8**
-Ass8 aka Q25 — Second maximum in array
+ Second maximum in array
 
 Finds the second largest element in an integer array using a single-pass O(n) approach.
 
 Topics: Arrays, linear search, OOP
 
 **ASSIGNMENT 9**
-Ass9 aka Q26 — Element insertion at position
+ Element insertion at position
 
 Inserts a new element at a specified index by right-shifting elements. Input validation with goto.
 
 Topics: Arrays, insertion, OOP
 
  **ASSIGNMNET 10**
- Ass10 aka Q27 — Selection sort and bubble sort
+  Selection sort and bubble sort
 
 Menu-driven program to sort an array using selection sort or bubble sort selected at runtime.
 
 Topics: Sorting algorithms, OOP
 
 **ASSIGNMNET 11**
-Ass11 aka Q29 — Matrix multiplication
+ Matrix multiplication
 
 Multiplies two user-defined matrices (up to 3×3) after validating dimensional compatibility.
 
 Topics: 2D arrays, matrix ops, OOP
 
 **ASSIGNEMET 12**
-Ass12 aka Q33 — Substrings of a number
+ Substrings of a number
 
 Converts an integer to string and prints all contiguous substrings of its digit sequence.
 
 Topics: Strings, type conversion, substrings
 
 **ASSIGNMENT 13**
-Ass13 aka Q35 — Stars at alphabetical position
+ Stars at alphabetical position
 
 Prints a star for each character indented to its alphabetical position using setw. Skips spaces.
 
 Topics: Strings, iomanip, ASCII arithmetic
 
 **ASSIGNMENT 14**
-Ass14 aka Q45 — Binary to decimal converter
+ Binary to decimal converter
 
 Manually converts a binary string to decimal using positional powers of 2 without built-in functions.
 
 Topics: Number systems, math.h, OOP
 
 **ASSIGNMENT 15**
-Ass15 aka Q52 — Product of prime digits
+ Product of prime digits
 
 Extracts digits from a 4-digit number, checks each for primality, and returns their product. Uses inheritance.
 
 Topics: Primes, inheritance, OOP
 
 **ASSIGNMENT 16**
-Ass16 aka Q58 — Password strength checker
+ Password strength checker
 
 Validates a password against 5 rules: length, uppercase, lowercase, digit, special char, and no spaces.
 
 Topics: Strings, cctype, validation
 
 **ASSIGMENT 17**
-Ass17 aka Q61 — Sum of embedded numbers in string
+ Sum of embedded numbers in string
 
 Parses a mixed string and sums all embedded integers, correctly handling multi-digit numbers.
 
 Topics: Strings, digit parsing, type casting
 
 **ASSIGNMENT 18**
-Ass18 aka Q63 — Swap adjacent digits
+ Swap adjacent digits
 
 Swaps digit pairs at adjacent indices in a number and displays the result. Uses new[] for dynamic digit storage.
 
 Topics: Digit manipulation, dynamic memory, OOP
 **ASSIGNMENT 19**
-Ass19 — Recursion: factorial, Fibonacci, Tower of Hanoi
+ factorial, Fibonacci, Tower of Hanoi
 
 Menu-driven program with three classic recursive problems: factorial, Fibonacci series, and Tower of Hanoi.
 
 Topics: Recursion, OOP, menu-driven
 
 **ASSIGNMENT 20**
-Ass20 aka Q77 — Circular queue (push, pop, peek)
+ Circular queue (push, pop, peek)
 
 Array-based circular queue with push, pop, and peek operations. Handles overflow/underflow. Uses inheritance.
 
